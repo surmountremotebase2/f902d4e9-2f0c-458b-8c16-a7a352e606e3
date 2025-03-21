@@ -1,1 +1,1 @@
-{"allocations": {"SCHD": 50.0, "TSLA": 50.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"SCHD": 90.0, "TSLA": 10.0}, "frequency": 30, "name": "", "period": "days"}
