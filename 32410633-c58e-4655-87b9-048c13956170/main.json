@@ -1,1 +1,1 @@
-{"allocations": {"TSLA": 50.0, "NVDA": 30.0, "AAPL": 10.0, "IBIT": 10.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"SCHD": 10.0, "MSTY": 90.0}, "frequency": 30, "name": "", "period": "days"}
